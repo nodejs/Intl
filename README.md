@@ -1,19 +1,35 @@
-# Internationalization Workgroup
+# Internationalization Working Group
 
 ## Mandate
 
-The Internationalization working group’s purpose is to gain consensus for:
-
-1. this
-2. that
+The Internationalization Working Group is dedicated to support and improvement of 
+Internationalization (i18n) and Localization (l10n) in Node.
 
 Its responsibilities are:
 
-1. this
-2. that
-3. the other
+1. functionality & compliance (standards: ecma, unicode…)
+2. Support for globalization and internationalization issues that come up in the tracker  
+3. Guidance and Best Practices  
+4. Refinement of existing Intl implementation  
 
-## Current Project Team Members
+## Liason relationships
+
+The WG will pursue formal or informal relationships with other WGs or
+other bodies as appropriate, which may include but is not limited to:
+
+* v8 Intl engineering group
+* W3C Internationalization group
+* jQuery globalize
+
+## Items out of scope
+
+The Internationalization Working Group is not responsible for, but may benefit from
+interaction/liason with those interested in, the following:
+
+* Translation of Node documentation, messages, and other materials into specific languages.
+* Outreach and user assistance given to users in specific langauges.
+
+## Current WG Members
   + Steven R. Loomis (@srl295) Facilitator
   + Michael Dawson (@mhdawson) 
   + James Snell (@jasnell)
