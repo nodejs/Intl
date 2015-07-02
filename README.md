@@ -1,16 +1,16 @@
-# Internationalization Working Group
+# Intl Working Group
 
 ## Mandate
 
-The Internationalization Working Group is dedicated to support and improvement of 
+The Intl (Internationalization) Working Group is dedicated to support and improvement of 
 Internationalization (i18n) and Localization (l10n) in Node.
 
 Its responsibilities are:
 
-1. functionality & compliance (standards: ecma, unicode…)
-2. Support for globalization and internationalization issues that come up in the tracker  
+1. Functionality & compliance (standards: ECMA, Unicode…)
+2. Support for Globalization and Internationalization issues that come up in the tracker  
 3. Guidance and Best Practices  
-4. Refinement of existing Intl implementation  
+4. Refinement of existing `Intl` implementation 
 
 ## Liason relationships
 
@@ -23,7 +23,7 @@ other bodies as appropriate, which may include but is not limited to:
 
 ## Items out of scope
 
-The Internationalization Working Group is not responsible for, but may benefit from
+The Intl Working Group is not responsible for, but may benefit from
 interaction/liason with those interested in, the following:
 
 * Translation of Node documentation, messages, and other materials into specific languages.
