@@ -65,3 +65,6 @@ interaction/liason with those interested in, the following:
   + Michael Dawson (@mhdawson) 
   + James Snell (@jasnell)
   + Steven Atkin (@stevenatkin)
+
+If you would like to join this group, please comment on [this issue](https://github.com/nodejs/Intl/issues/5) 
+or submit a pull request.
