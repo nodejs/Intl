@@ -41,7 +41,7 @@ In summary, this WGs responsibilities are:
 
 * [Converged ICU/Intl enablement](https://github.com/nodejs/node/issues/26)
 * [Adopt Globalize for i18n](https://github.com/nodejs/io.js/issues/1494)
-* [https://github.com/nodejs/io.js/issues/2165](system calls return non-normalized unicode strings)
+* [System calls return non-normalized unicode strings](https://github.com/nodejs/io.js/issues/2165)
 
 ## Liason relationships
 
