@@ -61,10 +61,14 @@ interaction/liason with those interested in, the following:
 * Outreach and user assistance given to users in specific langauges.
 
 ## Current WG Members
-  + Steven R. Loomis (@srl295) Facilitator
-  + Michael Dawson (@mhdawson) 
+  + Caridy Patiño (@caridy)
   + James Snell (@jasnell)
+  + Kevin Jose Martin (@KevinMartin)
+  + Michael Dawson (@mhdawson) 
+  + Rafael Xavier de Souza (@rxaviers) 
+  + Rick Waldron (@rwaldron)
   + Steven Atkin (@stevenatkin)
+  + Steven R. Loomis (@srl295) Facilitator
 
 If you would like to join this group, please comment on [this issue](https://github.com/nodejs/Intl/issues/5) 
 or submit a pull request.
