@@ -1,5 +1,7 @@
 # Intl Working Group
 
+![Intl logo](img/Intl.png)
+
 ## Mandate
 
 The Intl Working Group is dedicated to support and improvement of 
