@@ -45,7 +45,7 @@ In summary, this WGs responsibilities are:
 * [Adopt Globalize for i18n](https://github.com/nodejs/io.js/issues/1494)
 * [System calls return non-normalized unicode strings](https://github.com/nodejs/io.js/issues/2165)
 
-## Liason relationships
+## Liaison relationships
 
 The WG will pursue formal or informal relationships with other WGs or
 other bodies as appropriate, which may include but is not limited to:
@@ -57,10 +57,10 @@ other bodies as appropriate, which may include but is not limited to:
 ## Items out of scope
 
 The Intl Working Group is not responsible for, but may benefit from
-interaction/liason with those interested in, the following:
+interaction/liaison with those interested in, the following:
 
 * Translation of Node documentation, messages, and other materials into specific languages.
-* Outreach and user assistance given to users in specific langauges.
+* Outreach and user assistance given to users in specific languages.
 
 ## Current WG Members
   + Caridy Patiño (@caridy)
