@@ -24,7 +24,7 @@ of this WG to
 provide the infrastructure necessary to allow such translations to take place,
 such as message bundles and message formatting.
 
-Note, however is is not in the scope
+Note, however it is not in the scope
 of this WG to perform the actual translation (or localization) of Node, its
 documentation and websites, nor of modules or applications built using Node.
 
