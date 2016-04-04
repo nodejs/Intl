@@ -5,28 +5,27 @@
 ## Mandate
 
 The Intl Working Group is dedicated to support and improvement of 
-Internationalization (i18n) and Localization (l10n) in Node.
+Internationalization (i18n) and Localization (l10n) in Node.js.
 
 This WG's responsibility would be the 
 implementation of internationalization support (including but not limited to 
-Ecma-402) within Node itself, as well as ensuring compliance with standards
+Ecma-402) within Node.js itself, as well as ensuring compliance with standards
 such as Unicode, CLDR, and other globalization efforts.
 
-*Internationalization* here refers to the ability for Node to properly process
-textual content written in human languages (for example, Unicode character
-processing) as well as to provide services which respect the user’s
-cultural and socio-linguistic preferences (such as the particular way that
-dates and times would be displayed).
+*Internationalization* here refers to the ability for Node.js to properly
+process textual content written in human languages (for example, Unicode
+character processing) as well as to provide services which respect the user’s
+cultural and socio-linguistic preferences (such as the particular way that dates
+and times would be displayed).
 
-*Localization* here refers to the ability for Node and its modules and applications
-to be actually translated into specific human languages. It is the responsibility
-of this WG to
-provide the infrastructure necessary to allow such translations to take place,
-such as message bundles and message formatting.
+*Localization* here refers to the ability for Node.js and its modules and
+applications to be actually translated into specific human languages. It is the
+responsibility of this WG to provide the infrastructure necessary to allow such
+translations to take place, such as message bundles and message formatting.
 
 Note, however it is not in the scope
-of this WG to perform the actual translation (or localization) of Node, its
-documentation and websites, nor of modules or applications built using Node.
+of this WG to perform the actual translation (or localization) of Node.js, its
+documentation and websites, nor of modules or applications built using Node.js.
 
 Specifically, this mission is distinct from that of the various i18n working groups
 that are involved with translation of various project assets such as 
@@ -59,7 +58,8 @@ other bodies as appropriate, which may include but is not limited to:
 The Intl Working Group is not responsible for, but may benefit from
 interaction/liaison with those interested in, the following:
 
-* Translation of Node documentation, messages, and other materials into specific languages.
+* Translation of Node.js documentation, messages, and other materials into
+specific languages.
 * Outreach and user assistance given to users in specific languages.
 
 ## Current WG Members
