@@ -64,6 +64,7 @@ specific languages.
 
 ## Current WG Members
   + Caridy Patiño (@caridy)
+  + Daijirō Wachi (@watilde)
   + James Snell (@jasnell)
   + Kevin Jose Martin (@KevinMartin)
   + Michael Dawson (@mhdawson) 
