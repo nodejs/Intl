@@ -1,6 +1,13 @@
-# Intl Working Group
+# (dechartered) `Intl` Working Group
 
 ![Intl logo](img/Intl.png)
+
+# This WG has been [dechartered](https://github.com/nodejs/TSC/issues/353) —
+# Please see [nodejs/i18n](https://github.com/nodejs/i18n) for current activity
+
+ _(content kept for archival purposes)_
+
+-----
 
 ## Mandate
 
